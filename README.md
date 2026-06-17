@@ -12,7 +12,7 @@ The IMDB Movie Reviews Dataset was used for this project. The dataset contains 5
 
 * Total Reviews: 50,000
 * Classes: Positive, Negative
-* Dataset Source: Keras IMDB Dataset
+* Dataset Source: Kaggle IMDB Dataset
 
 ## Data Preprocessing
 
@@ -32,7 +32,7 @@ The following preprocessing steps were performed:
 
 ## Performance Evaluation
 
-The models were evaluated using accuracy and loss metrics. A comparison was performed to determine the best-performing architecture for sentiment classification.
+The models were evaluated using Accuracy, Precision, Recall, F1-Score, and AUC metrics. A comparison was performed to determine the best-performing architecture for sentiment classification.
 
 ## Technologies Used
 
